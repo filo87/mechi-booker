@@ -49,7 +49,7 @@ pipenv shell
 Run the Mechi-Booker script:
 
 ```bash
-python mechi_booker.py
+python main.py
 ```
 
 Mechi-Booker will prompt you for the required information to book a padel court. Follow the prompts and let Mechi-Booker handle the booking process for you.
