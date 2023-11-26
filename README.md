@@ -61,7 +61,7 @@ Mechi-Booker also includes a Docker Compose configuration for easy deployment. E
 To build and run Mechi-Booker with Docker Compose:
 
 ```bash
-docker-compose up --build
+docker-compose up -d
 ```
 
 This will build the Docker image and start the Mechi-Booker container.
